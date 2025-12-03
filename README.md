@@ -5,3 +5,9 @@ There are 4 Components:
 - ⁠GPS & Scarp Analysis 
 - ⁠Storm Severity Analysis 
 - ⁠Grain Size Analysis 
+
+How to use the environment?
+in the terminal:
+python -m venv env
+./env/Scripts/activate
+pip install -r requirements.txt
